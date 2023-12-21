@@ -1,4 +1,4 @@
-|**Vladyslav**  **Prytula** Frontend Developer ||
+|**Vladyslav**  **Prytula**||
 | :- | :- |
 |||
 
@@ -9,4 +9,4 @@
 
 |||
 | :- | :- |
-|**Профессиональное резюме** I'm studying ||
+|I'm studying ||
