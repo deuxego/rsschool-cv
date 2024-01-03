@@ -1,1 +1,1 @@
-https://deuxego.github.io/rsschool-cv/cv.md
+https://deuxego.github.io/rsschool-cv/cv
